@@ -1,0 +1,18 @@
+{
+  "status": "healthy",
+  "status_options_comment": "healthy, degraded, partial, major",
+  "title": "Our swing is a little broken",
+  "subtitle": "We're working on it!",
+  "latest_runtime": "1.6",
+  "latest_version": "1.6.40",
+  "version_requirements": {
+    "runtime": {
+      "minimum_required": "1.6",
+      "is_required": false
+    },
+    "dot_release": {
+      "minimum_required": "1.6.0",
+      "is_required": false
+    }
+  }
+}
