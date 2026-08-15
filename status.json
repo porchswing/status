@@ -8,11 +8,11 @@
   "version_requirements": {
     "runtime": {
       "minimum_required": "1.21",
-      "is_required": false
+      "is_required": true
     },
     "dot_release": {
-      "minimum_required": "1.21.0",
-      "is_required": false
+      "minimum_required": "1.21.21",
+      "is_required": true
     }
   }
 }
