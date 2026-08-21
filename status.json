@@ -11,7 +11,7 @@
       "is_required": true
     },
     "dot_release": {
-      "minimum_required": "1.21.21",
+      "minimum_required": "1.21.25",
       "is_required": true
     }
   }
