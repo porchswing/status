@@ -3,7 +3,7 @@
   "status_options_comment": "healthy, degraded, partial, major",
   "title": "Our swing is a little broken",
   "subtitle": "We're working on it!",
-  "latest_runtime": "1.21",
+  "latest_runtime": "1.22",
   "latest_version": "1.22.1",
   "version_requirements": {
     "runtime": {
