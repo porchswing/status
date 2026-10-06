@@ -7,11 +7,11 @@
   "latest_version": "1.24.1",
   "version_requirements": {
     "runtime": {
-      "minimum_required": "1.21",
+      "minimum_required": "1.22",
       "is_required": true
     },
     "dot_release": {
-      "minimum_required": "1.21.65",
+      "minimum_required": "1.22.16",
       "is_required": true
     }
   }
