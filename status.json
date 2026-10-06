@@ -4,7 +4,7 @@
   "title": "Our swing is a little broken",
   "subtitle": "We're working on it!",
   "latest_runtime": "1.23",
-  "latest_version": "1.23.5",
+  "latest_version": "1.24.1",
   "version_requirements": {
     "runtime": {
       "minimum_required": "1.21",
