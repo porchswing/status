@@ -3,15 +3,15 @@
   "status_options_comment": "healthy, degraded, partial, major",
   "title": "Our swing is a little broken",
   "subtitle": "We're working on it!",
-  "latest_runtime": "1.23",
+  "latest_runtime": "1.24",
   "latest_version": "1.24.11",
   "version_requirements": {
     "runtime": {
-      "minimum_required": "1.22",
+      "minimum_required": "1.24",
       "is_required": true
     },
     "dot_release": {
-      "minimum_required": "1.22.16",
+      "minimum_required": "1.24.0",
       "is_required": true
     }
   }
